@@ -1469,7 +1469,7 @@ public class ScheduleQueryService {
         var builder = new StringBuilder()
             .append("BEGIN:VCALENDAR\r\n")
             .append("VERSION:2.0\r\n")
-            .append("PRODID:-//sunnyhmz7010//Halo Schedule Calendar//CN\r\n")
+            .append("PRODID:-//hyrchen//Halo Schedule Calendar//CN\r\n")
             .append("CALSCALE:GREGORIAN\r\n")
             .append("METHOD:PUBLISH\r\n")
             .append("X-WR-TIMEZONE:")
